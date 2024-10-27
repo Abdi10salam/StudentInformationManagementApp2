@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_data_entry"
+        android:icon="@drawable/ic_data_entry"
+        android:title="Data Entry" />
+    <item
+        android:id="@+id/nav_display"
+        android:icon="@drawable/ic_display"
+        android:title="Display Students" />
+</menu>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Your App Name</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="hint_name">Student Name</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_grade">Grade</string>
+    <string name="hint_major">Major</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_clear">Clear</string>
+</resources>
