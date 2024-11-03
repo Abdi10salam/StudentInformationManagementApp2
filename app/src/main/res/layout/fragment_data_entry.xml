@@ -65,11 +65,11 @@
             android:orientation="vertical"
             android:layout_marginTop="22dp">
 
-            <Button
-                android:id="@+id/submitButton"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Submit" />
+                <Button
+                    android:id="@+id/submitButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Submit" />
 
                 <Button
                     android:id="@+id/clearButton"
